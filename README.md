@@ -116,7 +116,7 @@ The CSV contains the following columns:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/SGP4-Orbit-Propagation.git
+git clone https://github.com/khadijasheikh2004/sgp4-orbit-propagation.git
 
 cd SGP4-Orbit-Propagation
 ```
@@ -184,19 +184,6 @@ Install all dependencies with:
 ```bash
 pip install sgp4 pandas numpy matplotlib
 ```
-
----
-
-## Future Improvements
-
-- Support custom propagation durations
-- Earth visualization with realistic textures
-- Interactive 3D orbit visualization
-- Ground track generation
-- Multiple propagator support
-- Residual learning and machine learning correction models
-- Restricted three-body problem (Earth–Moon) propagation
-- Orbit prediction accuracy comparison
 
 ---
 
