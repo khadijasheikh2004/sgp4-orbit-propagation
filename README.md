@@ -118,7 +118,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/khadijasheikh2004/sgp4-orbit-propagation.git
 
-cd SGP4-Orbit-Propagation
+cd sgp4-orbit-propagation
 ```
 
 Install the required packages:
